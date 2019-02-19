@@ -1,0 +1,29 @@
+h1{
+    color:black;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+
+
+}
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:white;
+    padding: 15px;
+    margin: 70 
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px
+
+
+
+}
+
+.nav-bar ul li {
+    list-style-type: none;
+    padding: 0.8px
+}
+
